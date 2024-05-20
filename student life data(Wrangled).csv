@@ -1,0 +1,209 @@
+,University,Degree,Avg_Attendance,Avg_Study_time_per_day,Extracurricular_Activities,Avg_sleep_time,Household_Size,Workout,Free_time_Activity,University_society_member,Parents_Highest_Qaulification,GPA,field
+0,FAST UNIVERSITY,Bsc,90% - 100%,2-3 hours,SPORTS,5-7 hours,5-6 members,"Yes, regularly",Reading,No,Master's Degree,3.0 - 3.9,BS-AI
+1,FAST UNIVERSITY,Bsc,90% - 100%,2-3 hours,SPORTS,5-7 hours,5-6 members,"Yes, regularly",Watching TV/Movies,Yes,Master's Degree,3.0 - 3.9,BS-AI
+2,FAST UNIVERSITY,Bsc,90% - 100%,2-3 hours,GAMING,5-7 hours,5-6 members,"Yes, regularly",Watching TV/Movies,No,Master's Degree,3.0 - 3.9,BS-AI
+3,FAST UNIVERSITY,Bsc,80%-90%,5-6 hours,ACADEMIC CLUBS,5-7 hours,3-4 members,Occasionally,Watching TV/Movies,Yes,Bachelor's Degree,2.0 - 2.9,BS-CS
+4,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,SPORTS,5-7 hours,5-6 members,"No, I don't",Watching TV/Movies,No,Master's Degree,3.0 - 3.9,BS-AI
+5,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,SPORTS;VOLUNTEER WORK,5-7 hours,3-4 members,Occasionally,Socializing with Friends,No,Master's Degree,2.0 - 2.9,BS-AI
+6,FAST UNIVERSITY,Bsc,90% - 100%,1-2 hours,No Activity,5-7 hours,5-6 members,Occasionally,Playing Games,No,Master's Degree,3.0 - 3.9,BS-AI
+7,FAST UNIVERSITY,Bsc,80%-90%,Less than 1 hour,SPORTS,5-7 hours,5-6 members,Occasionally,Playing Games,Yes,Bachelor's Degree,2.0 - 2.9,BS-AI
+8,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,SPORTS,Less than 5 hours,5-6 members,"No, I don't",Socializing with Friends,No,High School Diploma or Below,2.0 - 2.9,BS-AI
+9,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,SPORTS,5-7 hours,5-6 members,"No, I don't",Reading,No,High School Diploma or Below,3.0 - 3.9,BS-AI
+10,FAST UNIVERSITY,Bsc,80%-90%,3-4 hours,WORK,5-7 hours,5-6 members,"No, I don't",Socializing with Friends,Yes,High School Diploma or Below,3.0 - 3.9,BS-AI
+11,FAST UNIVERSITY,Bsc,80%-90%,5-6 hours,SPORTS,Less than 5 hours,7 or more members,Occasionally,Socializing with Friends,No,Master's Degree,2.0 - 2.9,BS-AI
+12,FAST UNIVERSITY,Bsc,70%-80%,Less than 1 hour,WORK,5-7 hours,3-4 members,"No, I don't",Socializing with Friends,No,Master's Degree,3.0 - 3.9,BS-AI
+13,FAST UNIVERSITY,Bsc,90% - 100%,1-2 hours,SPORTS,5-7 hours,3-4 members,Occasionally,Watching TV/Movies,No,Master's Degree,2.0 - 2.9,BS-CYS
+14,INSTITUTE OF BUSINESS ADMINISTRATION,Bsc,90% - 100%,1-2 hours,ARTS AND CULTURE,7-9 hours,3-4 members,"No, I don't",drawing,Yes,Bachelor's Degree,3.0 - 3.9,BS-CS
+15,FAST UNIVERSITY,Bsc,80%-90%,3-4 hours,SPORTS,Less than 5 hours,5-6 members,"No, I don't",Watching TV/Movies,No,Bachelor's Degree,2.0 - 2.9,BS-CS
+16,OVAIS BIN AMER ,Bsc,80%-90%,1-2 hours,SPORTS,7-9 hours,3-4 members,"Yes, regularly",Socializing with Friends,Yes,Master's Degree,2.0 - 2.9,BS-CS
+17,FAST UNIVERSITY,Bsc,90% - 100%,1-2 hours,No Activity,Less than 5 hours,3-4 members,"No, I don't",Watching TV/Movies,Yes,Bachelor's Degree,2.0 - 2.9,BS
+18,FAST UNIVERSITY,Bsc,90% - 100%,1-2 hours,SPORTS;ACADEMIC CLUBS,Less than 5 hours,5-6 members,"No, I don't",Watching TV/Movies,Yes,Master's Degree,3.0 - 3.9,BS-AI
+19,BAHRIA UNIVERSITY,Bsc,90% - 100%,Less than 1 hour,SPORTS;ACADEMIC CLUBS,More than 9 hours,5-6 members,"Yes, regularly",Watching TV/Movies,Yes,Master's Degree,3.0 - 3.9,BBA
+20,FAST UNIVERSITY,Bsc,90% - 100%,5-6 hours,VOLUNTEER WORK,5-7 hours,3-4 members,Occasionally,Socializing with Friends,No,Master's Degree,2.0 - 2.9,BS-AI
+21,FAST UNIVERSITY,Bsc,80%-90%,3-4 hours,SPORTS,5-7 hours,5-6 members,"No, I don't",Playing Games,No,Bachelor's Degree,2.0 - 2.9,BS-AI
+22,FAST UNIVERSITY,Bsc,70%-80%,Less than 1 hour,SPORTS,5-7 hours,5-6 members,Occasionally,Watching TV/Movies,No,Bachelor's Degree,0.0 - 1.9,BS-AI
+23,FAST UNIVERSITY,Bsc,90% - 100%,3-4 hours,SPORTS;ACADEMIC CLUBS,5-7 hours,3-4 members,Occasionally,Playing Games,Yes,Bachelor's Degree,2.0 - 2.9,BS-AI
+24,FAST UNIVERSITY,Bsc,90% - 100%,Less than 1 hour,SPORTS,5-7 hours,5-6 members,"Yes, regularly",Playing Games,No,Master's Degree,2.0 - 2.9,BS-CS
+25,FAST UNIVERSITY,Bsc,80%-90%,Less than 1 hour,ACADEMIC CLUBS,5-7 hours,5-6 members,Occasionally,Watching TV/Movies,Yes,Bachelor's Degree,3.0 - 3.9,BS-SE
+26,HOWARD UNIVERSITY,Bsc,80%-90%,1-2 hours,ARTS AND CULTURE;ACADEMIC CLUBS,7-9 hours,3-4 members,"Yes, regularly",Socializing with Friends,Yes,Bachelor's Degree,3.0 - 3.9,BS CE
+27,BAHRIA UNIVERSITY,Bsc,70%-80%,1-2 hours,SPORTS;ARTS AND CULTURE;ACADEMIC CLUBS;VOLUNTEER WORK;BUSINESS ,More than 9 hours,5-6 members,Occasionally,Socializing with Friends,Yes,Bachelor's Degree,2.0 - 2.9,BS-IT
+28,BAHRIA UNIVERSITY,Bsc,90% - 100%,5-6 hours,SPORTS,7-9 hours,7 or more members,"No, I don't",Socializing with Friends,No,High School Diploma or Below,3.0 - 3.9,BS-IT
+29,BAHRIA UNIVERSITY,Bsc,80%-90%,3-4 hours,SPORTS,7-9 hours,7 or more members,Occasionally,Watching TV/Movies,No,Master's Degree,3.0 - 3.9,BS-IT
+30,BAHRIA UNIVERSITY,Bsc,90% - 100%,5-6 hours,No Activity,7-9 hours,5-6 members,"No, I don't",Socializing with Friends,Yes,High School Diploma or Below,3.0 - 3.9,BS-IT
+31,BAHRIA UNIVERSITY,Bsc,80%-90%,Less than 1 hour,No Activity,7-9 hours,5-6 members,Occasionally,Watching TV/Movies,No,Bachelor's Degree,3.0 - 3.9,BBA
+33,FAST UNIVERSITY,Bsc,80%-90%,3-4 hours,SPORTS,Less than 5 hours,1-2 members,Occasionally,"Marketing, Designing and many more",Yes,High School Diploma or Below,0.0 - 1.9,BS-CS
+34,FAST UNIVERSITY,Bsc,80%-90%,Less than 1 hour,SPORTS,Less than 5 hours,3-4 members,"No, I don't",Socializing with Friends,No,Bachelor's Degree,2.0 - 2.9,BS-CS
+35,FAST UNIVERSITY,Bsc,80%-90%,Less than 1 hour,SPORTS,5-7 hours,5-6 members,"No, I don't",Reading,No,Master's Degree,3.0 - 3.9,BS-SE
+36,BAHRIA UNIVERSITY,Bsc,80%-90%,More than 6 hours,No Activity,5-7 hours,3-4 members,"No, I don't",none,No,High School Diploma or Below,3.0 - 3.9,BACHELOR
+37,BAHRIA UNIVERSITY,Bsc,90% - 100%,1-2 hours,SPORTS,7-9 hours,3-4 members,"No, I don't",Watching TV/Movies,Yes,Bachelor's Degree,3.0 - 3.9,BS-IT
+38,BAHRIA UNIVERSITY,Bsc,90% - 100%,Less than 1 hour,SPORTS,7-9 hours,5-6 members,"No, I don't",Watching TV/Movies,No,Bachelor's Degree,2.0 - 2.9,BBA
+39,FAST UNIVERSITY,Bsc,80%-90%,Less than 1 hour,SPORTS,Less than 5 hours,7 or more members,"No, I don't",Playing Games,No,High School Diploma or Below,3.0 - 3.9,BS-AI
+40,BAHRIA UNIVERSITY,Bsc,80%-90%,Less than 1 hour,SPORTS,More than 9 hours,5-6 members,"No, I don't",Socializing with Friends,No,Bachelor's Degree,3.0 - 3.9,BBA
+41,BAHRIA UNIVERSITY,Bsc,80%-90%,Less than 1 hour,SPORTS;ACADEMIC CLUBS;VOLUNTEER WORK,7-9 hours,5-6 members,"Yes, regularly",Socializing with Friends,Yes,Master's Degree,3.0 - 3.9,BBA
+42,MAHAM KASHIF ,Bsc,80%-90%,1-2 hours,ARTS AND CULTURE;,Less than 5 hours,5-6 members,Occasionally,Watching TV/Movies,No,Bachelor's Degree,3.0 - 3.9,BBA
+43,BAHRIA UNIVERSITY,Bsc,80%-90%,1-2 hours,ARTS AND CULTURE,More than 9 hours,3-4 members,Occasionally,Playing Games,No,High School Diploma or Below,2.0 - 2.9,BBA
+44,INDUS UNIVERSITY ,Bsc,90% - 100%,More than 6 hours,SPORTS,Less than 5 hours,7 or more members,"Yes, regularly",Socializing with Friends,No,Master's Degree,4,BS CE
+45,BAHRIA UNIVERSITY,Bsc,90% - 100%,1-2 hours,SPORTS;ARTS AND CULTURE,5-7 hours,5-6 members,Occasionally,Watching TV/Movies,No,Master's Degree,3.0 - 3.9,BS-IT
+46,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,SPORTS;ARTS AND CULTURE,Less than 5 hours,5-6 members,Occasionally,Socializing with Friends,No,Bachelor's Degree,2.0 - 2.9,BS-CS
+47,BAHRIA UNIVERSITY,Bsc,70%-80%,1-2 hours,SPORTS;VOLUNTEER WORK,7-9 hours,3-4 members,Occasionally,Playing Games,Yes,Master's Degree,3.0 - 3.9,BBA
+48,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,ACADEMIC CLUBS;VOLUNTEER WORK,5-7 hours,7 or more members,Occasionally,Socializing with Friends,Yes,Bachelor's Degree,2.0 - 2.9,BS-AI
+49,PAF KIET,Bsc,90% - 100%,3-4 hours,ARTS AND CULTURE;VOLUNTEER WORK,Less than 5 hours,5-6 members,"No, I don't",Reading,No,Doctorate or Professional Degree,3.0 - 3.9,BS-CS
+50,BAHRIA UNIVERSITY,Bsc,80%-90%,1-2 hours,No Activity,5-7 hours,5-6 members,Occasionally,Watching TV/Movies,No,Master's Degree,4,BBA
+51,BAHRIA UNIVERSITY,Bsc,80%-90%,Less than 1 hour,ARTS AND CULTURE,7-9 hours,5-6 members,"No, I don't",Watching TV/Movies,No,Bachelor's Degree,3.0 - 3.9,BBA
+52,BAHRIA UNIVERSITY,Bsc,80%-90%,Less than 1 hour,SPORTS,Less than 5 hours,5-6 members,"No, I don't",Socializing with Friends,Yes,Bachelor's Degree,2.0 - 2.9,BS CE
+53,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,90% - 100%,Less than 1 hour,SPORTS;ACADEMIC CLUBS,5-7 hours,5-6 members,"Yes, regularly",Watching TV/Movies,Yes,Bachelor's Degree,3.0 - 3.9,BS CE
+54,UIT UNIVERSITY,Bsc,80%-90%,3-4 hours,ARTS AND CULTURE,7-9 hours,5-6 members,"No, I don't",Watching TV/Movies,No,High School Diploma or Below,2.0 - 2.9,BS-SE
+55,UNIVERSITY OF KARACHI,Msc,80%-90%,1-2 hours,SPORTS;ACADEMIC CLUBS;VOLUNTEER WORK,5-7 hours,5-6 members,Occasionally,Watching TV/Movies,Yes,High School Diploma or Below,3.0 - 3.9,DOCTOR OF PHARMACY 
+56,BAHRIA UNIVERSITY,Bsc,80%-90%,Less than 1 hour,No Activity,More than 9 hours,5-6 members,"No, I don't",Playing Games,No,Master's Degree,2.0 - 2.9,BBA
+57,BAHRIA UNIVERSITY,Bsc,90% - 100%,5-6 hours,ARTS AND CULTURE;VOLUNTEER WORK,5-7 hours,5-6 members,"Yes, regularly",Watching TV/Movies,Yes,High School Diploma or Below,3.0 - 3.9,BS-CS
+58,TECHNISCHE HOCHSCHULE INGOLSTADT,Bsc,90% - 100%,1-2 hours,SPORTS,5-7 hours,1-2 members,Occasionally,Playing Games,No,Master's Degree,3.0 - 3.9,BS-AI
+59,BAHRIA UNIVERSITY,Bsc,90% - 100%,Less than 1 hour,No Activity,5-7 hours,7 or more members,"Yes, regularly",Watching TV/Movies,No,Bachelor's Degree,3.0 - 3.9,BS-CS
+60,BAHRIA UNIVERSITY,Bsc,90% - 100%,5-6 hours,GYM,7-9 hours,5-6 members,"Yes, regularly",Watching TV/Movies,Yes,Master's Degree,2.0 - 2.9,BS-CS
+61,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,80%-90%,Less than 1 hour,SPORTS,7-9 hours,7 or more members,Occasionally,Playing Games,Yes,Master's Degree,3.0 - 3.9,BS-CS
+62,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,ACADEMIC CLUBS,5-7 hours,1-2 members,"No, I don't",Playing Games,Yes,Bachelor's Degree,2.0 - 2.9,BS-CS
+63,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,70%-80%,Less than 1 hour,ACADEMIC CLUBS,7-9 hours,5-6 members,"No, I don't",Watching TV/Movies,Yes,Bachelor's Degree,3.0 - 3.9,BS-IT
+64,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,80%-90%,3-4 hours,SPORTS,5-7 hours,7 or more members,"Yes, regularly",Playing Games,No,Bachelor's Degree,2.0 - 2.9,BS-CS
+65,SIR SYED UNIVERSITY,Bsc,90% - 100%,1-2 hours,SPORTS;,Less than 5 hours,7 or more members,"No, I don't",Playing Games,No,High School Diploma or Below,3.0 - 3.9,BS-SE
+66,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,ACADEMIC CLUBS;VOLUNTEER WORK,5-7 hours,3-4 members,Occasionally,Playing Games,Yes,Bachelor's Degree,3.0 - 3.9,BS-CS
+67,BAHRIA UNIVERSITY,Bsc,70%-80%,Less than 1 hour,SPORTS,7-9 hours,5-6 members,"Yes, regularly",Watching TV/Movies,No,Bachelor's Degree,2.0 - 2.9,BBA
+68,BAHRIA UNIVERSITY,Bsc,90% - 100%,Less than 1 hour,SPORTS,5-7 hours,7 or more members,Occasionally,Playing Games,No,High School Diploma or Below,3.0 - 3.9,BS-SE
+69,BAHRIA UNIVERSITY,Bsc,90% - 100%,Less than 1 hour,SPORTS,Less than 5 hours,7 or more members,"Yes, regularly",Reading,No,High School Diploma or Below,4,BS CE
+70,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,90% - 100%,Less than 1 hour,SPORTS,7-9 hours,3-4 members,Occasionally,Watching TV/Movies,No,Bachelor's Degree,3.0 - 3.9,BS-CS
+71,FAST UNIVERSITY,Bsc,80%-90%,Less than 1 hour,ACADEMIC CLUBS;VOLUNTEER WORK,5-7 hours,3-4 members,Occasionally,Reading,Yes,Master's Degree,4,BS-CS
+72,BAHRIA UNIVERSITY,Bsc,90% - 100%,1-2 hours,ACADEMIC CLUBS;VOLUNTEER WORK,5-7 hours,5-6 members,Occasionally,Socializing with Friends,Yes,Bachelor's Degree,3.0 - 3.9,BS-CS
+73,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,SOCIETIES ,Less than 5 hours,5-6 members,Occasionally,Mobile,Yes,Bachelor's Degree,2.0 - 2.9,BS-CS
+74,FAST UNIVERSITY,Bsc,80%-90%,Less than 1 hour,VOLUNTEER WORK,5-7 hours,5-6 members,"Yes, regularly",Watching TV/Movies,No,Master's Degree,2.0 - 2.9,BS-CS
+75,BAHRIA UNIVERSITY,Bsc,80%-90%,5-6 hours,SPORTS,5-7 hours,5-6 members,Occasionally,Playing Games,No,Bachelor's Degree,2.0 - 2.9,BS-CS
+76,SINDH MADERSATUL ISLAM UNIVERSITY ,Bsc,70%-80%,3-4 hours,SPORTS,7-9 hours,7 or more members,"No, I don't",Playing Games,No,Bachelor's Degree,2.0 - 2.9,BS-AI
+77,BAHRIA UNIVERSITY,Bsc,70%-80%,3-4 hours,ARTS AND CULTURE,5-7 hours,5-6 members,"Yes, regularly",Playing Games,No,Doctorate or Professional Degree,3.0 - 3.9,BS-EE
+78,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,GYM,5-7 hours,3-4 members,"Yes, regularly",Playing Games,No,Master's Degree,2.0 - 2.9,BS-CS
+79,FAST UNIVERSITY,Bsc,70%-80%,Less than 1 hour,SPORTS;VOLUNTEER WORK,5-7 hours,3-4 members,"No, I don't",Socializing with Friends,Yes,Bachelor's Degree,2.0 - 2.9,BS-CS
+80,FAST UNIVERSITY,Bsc,90% - 100%,1-2 hours,SPORTS,5-7 hours,5-6 members,Occasionally,Playing Games,Yes,Master's Degree,3.0 - 3.9,BS-CS
+81,FAST UNIVERSITY,Bsc,Below 60%,Less than 1 hour,SPORTS,Less than 5 hours,1-2 members,"No, I don't",noting,No,High School Diploma or Below,0.0 - 1.9,BS-CS
+82,FAST UNIVERSITY,Bsc,90% - 100%,More than 6 hours,ACADEMIC CLUBS,5-7 hours,7 or more members,"No, I don't",Watching TV/Movies,Yes,High School Diploma or Below,3.0 - 3.9,BS-CS
+83,BAHRIA UNIVERSITY,Bsc,80%-90%,Less than 1 hour,SPORTS;,5-7 hours,5-6 members,"Yes, regularly",Playing Games,No,Master's Degree,2.0 - 2.9,BS-CS
+84,UNIVERSITY OF KARACHI,Msc,80%-90%,3-4 hours,VOLUNTEER WORK,5-7 hours,3-4 members,Occasionally,Playing Games,No,Bachelor's Degree,2.0 - 2.9,MASTERS
+85,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,VOLUNTEER WORK,Less than 5 hours,5-6 members,"No, I don't",Socializing with Friends,Yes,Master's Degree,3.0 - 3.9,BS-CS
+86,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,SPORTS;VOLUNTEER WORK,5-7 hours,5-6 members,Occasionally,Socializing with Friends,Yes,High School Diploma or Below,2.0 - 2.9,BS-CS
+87,FAST UNIVERSITY,Bsc,90% - 100%,1-2 hours,SPORTS;,Less than 5 hours,7 or more members,"Yes, regularly",Watching TV/Movies,No,High School Diploma or Below,3.0 - 3.9,BS-CS
+88,BAHRIA UNIVERSITY,Bsc,80%-90%,Less than 1 hour,SPORTS;ACADEMIC CLUBS;VOLUNTEER WORK,5-7 hours,3-4 members,"Yes, regularly",Socializing with Friends,Yes,Bachelor's Degree,3.0 - 3.9,BS-CS
+89,BAHRIA UNIVERSITY,Bsc,80%-90%,Less than 1 hour,SPORTS,5-7 hours,5-6 members,Occasionally,Watching TV/Movies,Yes,Bachelor's Degree,3.0 - 3.9,BBA
+90,BAHRIA UNIVERSITY,Bsc,70%-80%,1-2 hours,SPORTS;OTHER,5-7 hours,5-6 members,"Yes, regularly",Watching TV/Movies,No,Master's Degree,3.0 - 3.9,BS-IT
+91,BAHRIA UNIVERSITY,Bsc,70%-80%,Less than 1 hour,SPORTS;VOLUNTEER WORK,5-7 hours,5-6 members,"Yes, regularly",Playing Games,No,Doctorate or Professional Degree,2.0 - 2.9,BS-AI
+92,BAHRIA UNIVERSITY,Bsc,90% - 100%,1-2 hours,VOLUNTEER WORK,More than 9 hours,3-4 members,"No, I don't",Watching TV/Movies,No,Bachelor's Degree,3.0 - 3.9,BS-IT
+93,FAST UNIVERSITY,Bsc,80%-90%,3-4 hours,SPORTS;VOLUNTEER WORK,7-9 hours,3-4 members,Occasionally,Watching TV/Movies,Yes,Master's Degree,3.0 - 3.9,BS-CS
+94,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,70%-80%,Less than 1 hour,VOLUNTEER WORK,Less than 5 hours,5-6 members,"No, I don't",Watching TV/Movies,No,Master's Degree,2.0 - 2.9,BS-CS
+95,BAHRIA UNIVERSITY,Bsc,80%-90%,Less than 1 hour,ARTS AND CULTURE;VOLUNTEER WORK,5-7 hours,3-4 members,"Yes, regularly",Watching TV/Movies,No,Bachelor's Degree,2.0 - 2.9,BS-AI
+96,FAST UNIVERSITY,Bsc,80%-90%,Less than 1 hour,SPORTS,7-9 hours,7 or more members,"No, I don't",Playing Games,No,Bachelor's Degree,2.0 - 2.9,BS-AI
+97,FAST UNIVERSITY,Bsc,70%-80%,1-2 hours,SPORTS;VOLUNTEER WORK,Less than 5 hours,3-4 members,Occasionally,Socializing with Friends,No,Bachelor's Degree,2.0 - 2.9,BS-AI
+98,UIT UNIVERSITY,Bsc,80%-90%,1-2 hours,SPORTS;ARTS AND CULTURE;ACADEMIC CLUBS;VOLUNTEER WORK,5-7 hours,3-4 members,Occasionally,Socializing with Friends,Yes,High School Diploma or Below,3.0 - 3.9,BS-EE
+99,FIZA,Bsc,70%-80%,1-2 hours,ARTS AND CULTURE;,7-9 hours,7 or more members,"No, I don't",Socializing with Friends,No,Master's Degree,2.0 - 2.9,BS-BT
+100,DOW UNIVERSITY OF HEALTH SCIENCES,Bsc,90% - 100%,1-2 hours,VOLUNTEER WORK,Less than 5 hours,5-6 members,"No, I don't",Watching TV/Movies,No,Master's Degree,4,BS-BT
+101,DOW UNIVERSITY OF HEALTH SCIENCES,Bsc,80%-90%,1-2 hours,ARTS AND CULTURE;VOLUNTEER WORK;ONLINE COURSES,7-9 hours,7 or more members,Occasionally,Watching TV/Movies,Yes,Bachelor's Degree,3.0 - 3.9,BS-BT
+102,DOW UNIVERSITY OF HEALTH SCIENCES,Bsc,70%-80%,3-4 hours,VOLUNTEER WORK,Less than 5 hours,7 or more members,"No, I don't",Reading,No,High School Diploma or Below,4,BS-BT
+103,DOW UNIVERSITY OF HEALTH SCIENCES,Bsc,70%-80%,Less than 1 hour,ARTS AND CULTURE;VOLUNTEER WORK,More than 9 hours,5-6 members,"No, I don't",Sleeping ,No,High School Diploma or Below,2.0 - 2.9,BS-BT
+104,DOW UNIVERSITY OF HEALTH SCIENCES,Bsc,70%-80%,3-4 hours,ARTS AND CULTURE;VOLUNTEER WORK,5-7 hours,5-6 members,"Yes, regularly",Watching TV/Movies,No,Master's Degree,3.0 - 3.9,BS-BT
+105,DOW UNIVERSITY OF HEALTH SCIENCES,Bsc,80%-90%,3-4 hours,SPORTS;ARTS AND CULTURE;ACADEMIC CLUBS;VOLUNTEER WORK,5-7 hours,5-6 members,"Yes, regularly",Watching TV/Movies,Yes,Master's Degree,3.0 - 3.9,BS-BT
+106,DOW UNIVERSITY OF HEALTH SCIENCES,Bsc,90% - 100%,1-2 hours,ARTS AND CULTURE;ACADEMIC CLUBS;VOLUNTEER WORK,5-7 hours,5-6 members,"No, I don't",Watching TV/Movies,No,Master's Degree,3.0 - 3.9,BS-BT
+107,DOW UNIVERSITY OF HEALTH SCIENCES,Bsc,90% - 100%,1-2 hours,VOLUNTEER WORK,5-7 hours,7 or more members,Occasionally,Reading,No,Bachelor's Degree,3.0 - 3.9,BS-BT
+108,DOW UNIVERSITY OF HEALTH SCIENCES,Bsc,70%-80%,1-2 hours,SPORTS;VOLUNTEER WORK,5-7 hours,5-6 members,"No, I don't",Reading,No,High School Diploma or Below,3.0 - 3.9,BS-BT
+109,FAST UNIVERSITY,Bsc,90% - 100%,1-2 hours,CRYPTO TRADING,7-9 hours,5-6 members,"No, I don't",Crypto Teaching,Yes,Master's Degree,3.0 - 3.9,BBA
+110,DOW UNIVERSITY OF HEALTH SCIENCES,Bsc,70%-80%,3-4 hours,VOLUNTEER WORK,5-7 hours,3-4 members,"Yes, regularly",Reading,No,Bachelor's Degree,3.0 - 3.9,BS-BT
+111,FAST UNIVERSITY,Bsc,80%-90%,Less than 1 hour,SPORTS;VOLUNTEER WORK,Less than 5 hours,3-4 members,Occasionally,Playing Games,Yes,Master's Degree,2.0 - 2.9,BS-EE
+112,IQRA UNIVERSITY,Bsc,80%-90%,1-2 hours,VOLUNTEER WORK,5-7 hours,3-4 members,Occasionally,Watching TV/Movies,No,Bachelor's Degree,3.0 - 3.9,BS-CS
+113,BAHRIA UNIVERSITY,Bsc,70%-80%,1-2 hours,SPORTS;ARTS AND CULTURE;ACADEMIC CLUBS,Less than 5 hours,7 or more members,"No, I don't",Reading,Yes,Bachelor's Degree,3.0 - 3.9,BS-AI
+114,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,SPORTS,Less than 5 hours,5-6 members,"Yes, regularly",Playing Games,No,Master's Degree,0.0 - 1.9,BS-AI
+115,IQRA UNIVERSITY,Bsc,80%-90%,1-2 hours,SPORTS,5-7 hours,7 or more members,"Yes, regularly",Playing Games,No,High School Diploma or Below,3.0 - 3.9,BBA
+116,IQRA UNIVERSITY,Bsc,90% - 100%,1-2 hours,SPORTS,5-7 hours,3-4 members,Occasionally,Watching TV/Movies,No,High School Diploma or Below,2.0 - 2.9,BBA
+117,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,SPORTS;VOLUNTEER WORK;GAMING,Less than 5 hours,7 or more members,Occasionally,Playing Games,Yes,Master's Degree,3.0 - 3.9,BS-CS
+118,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,SPORTS,7-9 hours,5-6 members,Occasionally,Watching TV/Movies,No,Bachelor's Degree,3.0 - 3.9,BS-CS
+119,FAST UNIVERSITY,Bsc,70%-80%,3-4 hours,ACADEMIC CLUBS;VOLUNTEER WORK,7-9 hours,7 or more members,"No, I don't",Watching TV/Movies,Yes,High School Diploma or Below,2.0 - 2.9,BS-CS
+120,FAST UNIVERSITY,Bsc,80%-90%,5-6 hours,No Activity,5-7 hours,7 or more members,"No, I don't",Watching TV/Movies,No,Master's Degree,3.0 - 3.9,BS-SE
+121,FAST UNIVERSITY,Bsc,90% - 100%,Less than 1 hour,SPORTS;ACADEMIC CLUBS,7-9 hours,3-4 members,"No, I don't",Playing Games,No,Doctorate or Professional Degree,3.0 - 3.9,BACHELOR
+122,FAST UNIVERSITY,Msc,90% - 100%,Less than 1 hour,SPORTS,7-9 hours,3-4 members,"No, I don't",Playing Games,No,Doctorate or Professional Degree,3.0 - 3.9,MASTERS
+123,FAST UNIVERSITY,Bsc,80%-90%,3-4 hours,No Activity,5-7 hours,5-6 members,"No, I don't",Socializing with Friends,No,High School Diploma or Below,3.0 - 3.9,BS-CS
+124,FAST UNIVERSITY,Bsc,90% - 100%,1-2 hours,SPORTS;VOLUNTEER WORK,5-7 hours,3-4 members,"No, I don't",Socializing with Friends,Yes,High School Diploma or Below,2.0 - 2.9,BS-CS
+125,FAST UNIVERSITY,Bsc,80%-90%,Less than 1 hour,ARTS AND CULTURE;ACADEMIC CLUBS;VOLUNTEER WORK,Less than 5 hours,5-6 members,"No, I don't",Watching TV/Movies,Yes,High School Diploma or Below,2.0 - 2.9,BS-CS
+126,FAST UNIVERSITY,Bsc,90% - 100%,1-2 hours,SPORTS,7-9 hours,5-6 members,"No, I don't",Socializing with Friends,Yes,Master's Degree,3.0 - 3.9,BS-SE
+127,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,80%-90%,3-4 hours,ACADEMIC CLUBS,5-7 hours,7 or more members,Occasionally,Watching TV/Movies,Yes,Bachelor's Degree,3.0 - 3.9,BS-EE
+128,FAST UNIVERSITY,Bsc,90% - 100%,1-2 hours,SPORTS;ARTS AND CULTURE,Less than 5 hours,7 or more members,"No, I don't",Playing Games,Yes,Master's Degree,3.0 - 3.9,BS-AI
+129,BAHRIA UNIVERSITY,Bsc,80%-90%,1-2 hours,No Activity,5-7 hours,5-6 members,"Yes, regularly",Socializing with Friends,No,Master's Degree,3.0 - 3.9,BBA
+130,FAST UNIVERSITY,Bsc,80%-90%,3-4 hours,SPORTS,Less than 5 hours,3-4 members,"No, I don't",Watching TV/Movies,No,Master's Degree,3.0 - 3.9,BS-EE
+131,DOW UNIVERSITY OF HEALTH SCIENCES,Bsc,90% - 100%,Less than 1 hour,SPORTS;ACADEMIC CLUBS;VOLUNTEER WORK,5-7 hours,5-6 members,Occasionally,Watching TV/Movies,Yes,Master's Degree,4,BS-BT
+132,FAST UNIVERSITY,Bsc,90% - 100%,3-4 hours,SPORTS;ARTS AND CULTURE;ACADEMIC CLUBS,Less than 5 hours,3-4 members,"No, I don't",Watching TV/Movies,Yes,Master's Degree,3.0 - 3.9,BS-AI
+133,FAST UNIVERSITY,Bsc,90% - 100%,1-2 hours,SPORTS;ARTS AND CULTURE;ACADEMIC CLUBS;VOLUNTEER WORK,More than 9 hours,3-4 members,Occasionally,Watching TV/Movies,Yes,Bachelor's Degree,3.0 - 3.9,BS-AI
+134,FAST UNIVERSITY,Bsc,80%-90%,Less than 1 hour,SPORTS;ARTS AND CULTURE;ACADEMIC CLUBS;VOLUNTEER WORK,5-7 hours,5-6 members,"Yes, regularly",Socializing with Friends,Yes,Master's Degree,3.0 - 3.9,BS-CYS
+135,FAST UNIVERSITY,Bsc,90% - 100%,More than 6 hours,SPORTS;ARTS AND CULTURE;ACADEMIC CLUBS;VOLUNTEER WORK;,More than 9 hours,7 or more members,"Yes, regularly",Watching TV/Movies,Yes,Master's Degree,4,BS-CYS
+136,FAST UNIVERSITY,Bsc,70%-80%,1-2 hours,SPORTS,7-9 hours,3-4 members,Occasionally,Watching TV/Movies,No,Master's Degree,3.0 - 3.9,BS-CS
+137,FAST UNIVERSITY,Bsc,90% - 100%,3-4 hours,SPORTS,5-7 hours,5-6 members,"Yes, regularly",Watching TV/Movies,Yes,Master's Degree,3.0 - 3.9,BS-AI
+138,UNIVERSITY OF KARACHI,Bsc,70%-80%,5-6 hours,No Activity,7-9 hours,7 or more members,"No, I don't",Watching TV/Movies,No,High School Diploma or Below,2.0 - 2.9,BA
+139,BAHRIA UNIVERSITY,Bsc,70%-80%,1-2 hours,ARTS AND CULTURE;MUSIC,5-7 hours,3-4 members,Occasionally,Playing guitar,Yes,Bachelor's Degree,2.0 - 2.9,BS-CS
+140,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,ACADEMIC CLUBS;VOLUNTEER WORK,5-7 hours,5-6 members,Occasionally,Socializing with Friends,Yes,High School Diploma or Below,3.0 - 3.9,BS-CS
+141,FAST UNIVERSITY,Bsc,90% - 100%,5-6 hours,SPORTS,5-7 hours,5-6 members,"Yes, regularly",Watching TV/Movies,No,Bachelor's Degree,3.0 - 3.9,BS-CS
+142,BAHRIA UNIVERSITY,Bsc,Below 60%,Less than 1 hour,SPORTS,More than 9 hours,1-2 members,"No, I don't",Socializing with Friends,No,Doctorate or Professional Degree,0.0 - 1.9,BS-IT
+143,BAHRIA UNIVERSITY,Bsc,70%-80%,1-2 hours,SPORTS;ARTS AND CULTURE;VOLUNTEER WORK,More than 9 hours,5-6 members,"No, I don't",Watching TV/Movies,Yes,Bachelor's Degree,3.0 - 3.9,BBA
+144,BAHRIA UNIVERSITY,Bsc,90% - 100%,Less than 1 hour,SPORTS,5-7 hours,3-4 members,"No, I don't",Playing Games,No,High School Diploma or Below,3.0 - 3.9,BBA
+145,ABDULLAH ,Bsc,90% - 100%,3-4 hours,SPORTS;VOLUNTEER WORK,5-7 hours,5-6 members,"Yes, regularly",Socializing with Friends,No,High School Diploma or Below,4,BS-IT
+146,BAHRIA UNIVERSITY,Bsc,80%-90%,Less than 1 hour,SPORTS;ARTS AND CULTURE,More than 9 hours,7 or more members,Occasionally,Watching TV/Movies,No,Master's Degree,2.0 - 2.9,BBA
+147,BAHRIA UNIVERSITY,Bsc,70%-80%,Less than 1 hour,SPORTS;ARTS AND CULTURE;VOLUNTEER WORK,More than 9 hours,7 or more members,Occasionally,Playing Games,No,Bachelor's Degree,3.0 - 3.9,BBA
+148,BAHRIA UNIVERSITY,Bsc,80%-90%,1-2 hours,SPORTS;VOLUNTEER WORK,Less than 5 hours,3-4 members,"No, I don't",Watching TV/Movies,No,Bachelor's Degree,3.0 - 3.9,BBA
+149,DOW UNIVERSITY OF HEALTH SCIENCES,Bsc,80%-90%,3-4 hours,SPORTS;ARTS AND CULTURE,5-7 hours,5-6 members,"No, I don't",Watching TV/Movies,Yes,High School Diploma or Below,2.0 - 2.9,BBA
+150,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,80%-90%,3-4 hours,SPORTS;VOLUNTEER WORK,7-9 hours,5-6 members,"Yes, regularly",Watching TV/Movies,Yes,Master's Degree,3.0 - 3.9,BS-EE
+151,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,70%-80%,3-4 hours,SPORTS,5-7 hours,5-6 members,Occasionally,Watching TV/Movies,Yes,Bachelor's Degree,2.0 - 2.9,BS-EE
+152,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,80%-90%,5-6 hours,SPORTS;ACADEMIC CLUBS,Less than 5 hours,7 or more members,"Yes, regularly",Watching TV/Movies,No,High School Diploma or Below,3.0 - 3.9,BS-EE
+153,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,90% - 100%,More than 6 hours,SPORTS,5-7 hours,3-4 members,"No, I don't",Watching TV/Movies,Yes,Doctorate or Professional Degree,3.0 - 3.9,BS CE
+154,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,90% - 100%,5-6 hours,SPORTS,5-7 hours,5-6 members,Occasionally,Watching TV/Movies,Yes,Bachelor's Degree,2.0 - 2.9,BS-EE
+155,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,70%-80%,3-4 hours,SPORTS,Less than 5 hours,3-4 members,"Yes, regularly",Watching TV/Movies,Yes,Master's Degree,0.0 - 1.9,BS-EE
+156,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,90% - 100%,3-4 hours,SPORTS,Less than 5 hours,5-6 members,"Yes, regularly",Watching TV/Movies,Yes,Master's Degree,0.0 - 1.9,BS-EE
+157,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,70%-80%,5-6 hours,SPORTS,Less than 5 hours,5-6 members,"No, I don't",Playing Games,Yes,High School Diploma or Below,0.0 - 1.9,BS CE
+158,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,90% - 100%,More than 6 hours,SPORTS,Less than 5 hours,7 or more members,"Yes, regularly",Socializing with Friends,Yes,Master's Degree,4,BS-EE
+159,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,90% - 100%,More than 6 hours,VOLUNTEER WORK,7-9 hours,1-2 members,Occasionally,Playing Games,Yes,High School Diploma or Below,3.0 - 3.9,BS-EE
+160,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,80%-90%,3-4 hours,ARTS AND CULTURE,5-7 hours,3-4 members,"No, I don't",Reading,No,Doctorate or Professional Degree,2.0 - 2.9,BS-EE
+161,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,90% - 100%,5-6 hours,VOLUNTEER WORK,7-9 hours,7 or more members,"Yes, regularly",Reading,No,Doctorate or Professional Degree,3.0 - 3.9,BS CE
+162,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,70%-80%,Less than 1 hour,VOLUNTEER WORK,7-9 hours,1-2 members,"Yes, regularly",Socializing with Friends,Yes,Doctorate or Professional Degree,2.0 - 2.9,BS-EE
+163,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,90% - 100%,3-4 hours,ARTS AND CULTURE,7-9 hours,3-4 members,"No, I don't",Reading,Yes,Bachelor's Degree,2.0 - 2.9,BS-EE
+164,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,70%-80%,3-4 hours,SPORTS;ACADEMIC CLUBS,7-9 hours,5-6 members,Occasionally,Socializing with Friends,Yes,Doctorate or Professional Degree,2.0 - 2.9,BS CE
+165,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,90% - 100%,More than 6 hours,SPORTS;ACADEMIC CLUBS;VOLUNTEER WORK,5-7 hours,5-6 members,"Yes, regularly",Socializing with Friends,Yes,Master's Degree,4,BS-EE
+166,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,70%-80%,1-2 hours,ARTS AND CULTURE;ACADEMIC CLUBS,5-7 hours,7 or more members,"Yes, regularly",Socializing with Friends,Yes,High School Diploma or Below,2.0 - 2.9,BS-EE
+167,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,Below 60%,5-6 hours,SPORTS;ARTS AND CULTURE;VOLUNTEER WORK,5-7 hours,3-4 members,"No, I don't",Playing Games,Yes,Master's Degree,3.0 - 3.9,BS-EE
+168,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,60%-70%,1-2 hours,ARTS AND CULTURE;VOLUNTEER WORK,5-7 hours,3-4 members,Occasionally,Watching TV/Movies,No,Master's Degree,3.0 - 3.9,BS-EE
+169,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,70%-80%,5-6 hours,ARTS AND CULTURE;ACADEMIC CLUBS,More than 9 hours,1-2 members,"No, I don't",Socializing with Friends,Yes,High School Diploma or Below,2.0 - 2.9,BS-EE
+170,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,80%-90%,1-2 hours,SPORTS;ARTS AND CULTURE;VOLUNTEER WORK,More than 9 hours,5-6 members,"Yes, regularly",Socializing with Friends,No,High School Diploma or Below,2.0 - 2.9,BS CE
+171,NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY,Bsc,60%-70%,1-2 hours,SPORTS;ARTS AND CULTURE;ACADEMIC CLUBS,5-7 hours,5-6 members,Occasionally,Reading,No,High School Diploma or Below,2.0 - 2.9,BS-EE
+172,FAST UNIVERSITY,Bsc,90% - 100%,1-2 hours,SPORTS;ARTS AND CULTURE,Less than 5 hours,3-4 members,"Yes, regularly",Watching TV/Movies,Yes,Bachelor's Degree,2.0 - 2.9,BS-CS
+173,FAST UNIVERSITY,Bsc,80%-90%,5-6 hours,SPORTS,7-9 hours,7 or more members,"No, I don't",Reading,Yes,High School Diploma or Below,3.0 - 3.9,BS-AI
+174,FAST UNIVERSITY,Bsc,90% - 100%,More than 6 hours,ARTS AND CULTURE,Less than 5 hours,1-2 members,Occasionally,Watching TV/Movies,No,Bachelor's Degree,3.0 - 3.9,BS-CS
+175,FAST UNIVERSITY,Bsc,80%-90%,3-4 hours,ACADEMIC CLUBS,7-9 hours,5-6 members,"Yes, regularly",Socializing with Friends,Yes,High School Diploma or Below,2.0 - 2.9,BS-AI
+176,FAST UNIVERSITY,Bsc,80%-90%,3-4 hours,ACADEMIC CLUBS,Less than 5 hours,3-4 members,"Yes, regularly",Playing Games,Yes,Doctorate or Professional Degree,2.0 - 2.9,BS-CS
+177,FAST UNIVERSITY,Bsc,90% - 100%,1-2 hours,SPORTS;ARTS AND CULTURE;VOLUNTEER WORK,Less than 5 hours,5-6 members,"Yes, regularly",Socializing with Friends,No,Master's Degree,3.0 - 3.9,BS-CYS
+178,INSTITUTE OF BUSINESS ADMINISTRATION,Bsc,90% - 100%,3-4 hours,ARTS AND CULTURE;VOLUNTEER WORK,7-9 hours,5-6 members,"No, I don't",Watching TV/Movies,No,High School Diploma or Below,3.0 - 3.9,BS-INDUSTRIAL MANAGEMENT 
+179,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,SPORTS,Less than 5 hours,5-6 members,"No, I don't",Playing Games,No,Bachelor's Degree,3.0 - 3.9,BS-CS
+180,KIET,Bsc,70%-80%,3-4 hours,VOLUNTEER WORK,5-7 hours,1-2 members,Occasionally,Watching TV/Movies,Yes,Bachelor's Degree,2.0 - 2.9,BS-SE
+181,FAST UNIVERSITY,Bsc,90% - 100%,More than 6 hours,SPORTS;VOLUNTEER WORK,5-7 hours,3-4 members,Occasionally,Reading,Yes,Bachelor's Degree,3.0 - 3.9,BS-CS
+182,JINNAH UNIVERSITY FOR WOMEN (1ST WOMEN UNIVERSITY),Bsc,80%-90%,1-2 hours,SPORTS;ACADEMIC CLUBS;VOLUNTEER WORK,7-9 hours,7 or more members,Occasionally,Watching TV/Movies,Yes,High School Diploma or Below,2.0 - 2.9,BS-SE
+183,COMSATS,Bsc,70%-80%,1-2 hours,SPORTS,5-7 hours,1-2 members,Occasionally,Playing Games,Yes,Master's Degree,2.0 - 2.9,BS-SE
+184,FAST UNIVERSITY,Bsc,80%-90%,3-4 hours,No Activity,Less than 5 hours,3-4 members,"No, I don't","free time nai milta, but studying",Yes,Bachelor's Degree,2.0 - 2.9,BS-AI
+185,FAST UNIVERSITY,Bsc,90% - 100%,1-2 hours,SPORTS;ARTS AND CULTURE;ACADEMIC CLUBS;VOLUNTEER WORK,Less than 5 hours,7 or more members,"No, I don't",Socializing with Friends,Yes,Bachelor's Degree,2.0 - 2.9,BS-AI
+186,FAST UNIVERSITY,Bsc,90% - 100%,1-2 hours,No Activity,More than 9 hours,3-4 members,"No, I don't",Reading,Yes,Bachelor's Degree,2.0 - 2.9,BS-AI
+187,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,SPORTS;VOLUNTEER WORK,Less than 5 hours,5-6 members,Occasionally,Watching TV/Movies,Yes,Doctorate or Professional Degree,2.0 - 2.9,BS-AI
+188,FAST UNIVERSITY,Bsc,80%-90%,Less than 1 hour,No Activity,Less than 5 hours,3-4 members,"Yes, regularly",phone,No,Bachelor's Degree,2.0 - 2.9,BS-AI
+189,FAST UNIVERSITY,Bsc,70%-80%,3-4 hours,SPORTS;ACADEMIC CLUBS;VOLUNTEER WORK,5-7 hours,5-6 members,Occasionally,Watching TV/Movies,Yes,Master's Degree,2.0 - 2.9,BS-CS
+190,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,SPORTS,5-7 hours,5-6 members,Occasionally,Socializing with Friends,Yes,Master's Degree,2.0 - 2.9,BS-AI
+191,UNIVERSITY OF KARACHI,Bsc,80%-90%,1-2 hours,VOLUNTEER WORK,5-7 hours,1-2 members,Occasionally,Gardening ,No,Bachelor's Degree,3.0 - 3.9,BACHELOR
+192,UNIVERSITY OF KARACHI,Bsc,70%-80%,5-6 hours,SPORTS,7-9 hours,5-6 members,Occasionally,Playing Games,No,Bachelor's Degree,3.0 - 3.9,BACHELOR
+193,UNIVERSITY OF KARACHI,Bsc,70%-80%,3-4 hours,SPORTS,7-9 hours,5-6 members,"No, I don't",Watching TV/Movies,No,Bachelor's Degree,2.0 - 2.9,BACHELOR
+194,UNIVERSITY OF KARACHI,Bsc,80%-90%,1-2 hours,SPORTS;VOLUNTEER WORK,5-7 hours,5-6 members,"No, I don't",Watching TV/Movies,Yes,Doctorate or Professional Degree,3.0 - 3.9,DOCTOR OF PHYSICAL THERAPY 
+195,UNIVERSITY OF KARACHI,Bsc,80%-90%,3-4 hours,ARTS AND CULTURE,7-9 hours,3-4 members,Occasionally,Socializing with Friends,No,Master's Degree,3.0 - 3.9,BACHELOR
+196,UNIVERSITY OF KARACHI,Bsc,70%-80%,3-4 hours,SPORTS,7-9 hours,5-6 members,Occasionally,Reading,No,Master's Degree,3.0 - 3.9,MASTERS
+197,UNIVERSITY OF KARACHI,Bsc,80%-90%,3-4 hours,ARTS AND CULTURE,7-9 hours,3-4 members,Occasionally,Socializing with Friends,No,Master's Degree,3.0 - 3.9,BACHELOR
+198,BAHRIA UNIVERSITY,Bsc,80%-90%,3-4 hours,VOLUNTEER WORK,7-9 hours,3-4 members,"Yes, regularly",Socializing with Friends,Yes,High School Diploma or Below,3.0 - 3.9,BS-IT
+199,UNIVERSITY OF KARACHI,Msc,70%-80%,3-4 hours,ACADEMIC CLUBS,7-9 hours,5-6 members,"Yes, regularly",Reading,Yes,Master's Degree,4,MASTERS
+200,UNIVERSITY OF KARACHI,Bsc,60%-70%,3-4 hours,ARTS AND CULTURE,5-7 hours,7 or more members,Occasionally,Playing Games,No,Master's Degree,2.0 - 2.9,BACHELOR
+201,UNIVERSITY OF KARACHI,Bsc,80%-90%,Less than 1 hour,SPORTS,5-7 hours,5-6 members,Occasionally,Socializing with Friends,No,High School Diploma or Below,3.0 - 3.9,BACHELOR
+202,UNIVERSITY OF KARACHI,Bsc,80%-90%,3-4 hours,ARTS AND CULTURE,5-7 hours,7 or more members,Occasionally,Watching TV/Movies,No,High School Diploma or Below,2.0 - 2.9,BACHELOR
+203,UNIVERSITY OF KARACHI,Msc,90% - 100%,3-4 hours,VOLUNTEER WORK,5-7 hours,7 or more members,"Yes, regularly",Playing football,No,High School Diploma or Below,2.0 - 2.9,MASTERS
+204,UNIVERSITY OF KARACHI,Bsc,90% - 100%,1-2 hours,ARTS AND CULTURE;VOLUNTEER WORK,7-9 hours,7 or more members,"No, I don't",Reading,No,High School Diploma or Below,3.0 - 3.9,MASTERS
+205,FAST UNIVERSITY,Bsc,80%-90%,3-4 hours,SPORTS,5-7 hours,5-6 members,"No, I don't",Socializing with Friends,No,Master's Degree,2.0 - 2.9,BS-AI
+206,FAST UNIVERSITY,Bsc,80%-90%,1-2 hours,ACADEMIC CLUBS,Less than 5 hours,5-6 members,"No, I don't",Watching TV/Movies,Yes,High School Diploma or Below,3.0 - 3.9,BS-AI
+207,IQRA UNIVERSITY,Bsc,90% - 100%,Less than 1 hour,SPORTS,5-7 hours,3-4 members,"Yes, regularly",Socializing with Friends,No,Master's Degree,3.0 - 3.9,BS-CS
+208,UNIVERSITY OF KARACHI,Bsc,90% - 100%,5-6 hours,ARTS AND CULTURE;VOLUNTEER WORK,5-7 hours,5-6 members,"Yes, regularly",Socializing with Friends,No,High School Diploma or Below,3.0 - 3.9,MASTERS
